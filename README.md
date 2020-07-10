@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Isaac (Zibbp)</h1>
 
-<!--
-**Zibbp/Zibbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://zibb.host"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=zibb.host&url=https%3A%2F%2Fwww.zibb.host&labelColor=black"></a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+🎓 Currently studying <strong>Systems Administration</strong>
+<br>
+💻 Junior <strong>Fullstack Developer (Node, MongoDB, Vue)</strong>
+
+</p>
