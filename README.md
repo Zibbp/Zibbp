@@ -46,7 +46,7 @@
 
 <h2  align="center">💻 What I'm working on ⬇️ </h2>
 <p align="center">
-<a href="https://github.com/Zibbp/Radium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zibbp&repo=Radium&theme=tokyonight" /></a>
+<a href="https://github.com/Zibbp/Radium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zibbp&repo=Radium&theme=dark" /></a>
 </p>
 <hr>
 
