@@ -37,8 +37,8 @@
 
 <h2 align="center">💬 Links</h2>
 <p align="center" align='right'>
-<a target="_blank"href="https://zibbp.tech/"><img src="https://img.shields.io/badge/Website-Zibbp.tech-%32CD32.svg?&style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://dev.to/zibbp"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://zibbp.tech/"><img src="https://img.shields.io/badge/Website-Zibbp.tech-%32CD32.svg?&style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://dev.to/zibbp"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -46,16 +46,16 @@
 
 <h2  align="center">💻 What I'm working on ⬇️ </h2>
 <p align="center">
-<a href="https://github.com/Zibbp/Radium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zibbp&repo=Radium&theme=dark&show_owner=true" /></a>
+<a target="_blank" href="https://github.com/Zibbp/Radium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zibbp&repo=Radium&theme=dark&show_owner=true" /></a>
 </p>
 <hr>
 
 <h2  align="center">📫 Contact Me</h2>
 <p align="center">
-<a target="_blank"href="https://zibbp.tech/"><img src="https://img.shields.io/badge/Website-Zibbp.tech-%32CD32.svg?&style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://zibbp.tech/"><img src="https://img.shields.io/badge/Website-Zibbp.tech-%32CD32.svg?&style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Zibbp/Zibbp/blob/master/images/discord.png?raw=true" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://mailhide.io/e/ZUXn9"><img src="https://img.shields.io/badge/Email-Reveal-%32CD32.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/isaac-brummel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://mailhide.io/e/ZUXn9"><img src="https://img.shields.io/badge/Email-Reveal-%32CD32.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/isaac-brummel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <h2 align="center"> <img src="https://i.imgur.com/eTYtOgy.png" width="64px" height="64px"/> </h2>
 </p>
