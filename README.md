@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi, I'm Isaac</h2>
 <p align="center">
-  I am a tech enthusiast and self-taught coder who is purusing a degree to become a system administrator. I love creating open-source software so check back here often to see what I'm working on. Besides technology, I have a passion for outer space and the endless possibilities that come with it.
+  I am a tech enthusiast and self-taught coder who is pursuing a degree to become a system administrator. I love creating open-source software so check back here often to see what I'm working on. Besides technology, I have a passion for outer space and the endless possibilities that come with it.
   <br>
 </p>
 
