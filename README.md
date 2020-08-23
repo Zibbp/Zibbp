@@ -52,7 +52,6 @@
 
 <h2  align="center">📫 Contact Me</h2>
 <p align="center">
-<a target="_blank" href="https://zibbp.tech/"><img src="https://img.shields.io/badge/Website-Zibbp.tech-%32CD32.svg?&style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Zibbp/Zibbp/blob/master/images/discord.png?raw=true" />&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://mailhide.io/e/ZUXn9"><img src="https://img.shields.io/badge/Email-Reveal-%32CD32.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/isaac-brummel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
