@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://www.zibbp.net/index.xml"
           max_post_count: 3
-          template: "$newline - *[$title]($url)*: $description $newline"
+          template: "$newline - **[$title]($url)**: $description $newline"
