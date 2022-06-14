@@ -17,6 +17,7 @@ My name is Isaac and I'm a System Administrator. I have a passion for homelabbin
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+ - **[Low Latency Streaming](https://zibbp.net/posts/low-latency-streaming/)**: How I host movie nights with my friends. 
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 Stats
