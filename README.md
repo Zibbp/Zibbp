@@ -2,9 +2,8 @@
 
 ### 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
- - [Low Latency Streaming](https://zibbp.net/posts/low-latency-streaming/) 
- - *How I host movie nights with my friends.*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Low Latency Streaming](https://zibbp.net/posts/low-latency-streaming/): How I host movie nights with my friends. 
+<!-- BLOG-POST-LIST:END -->
 
 ### 📈 Stats
 
