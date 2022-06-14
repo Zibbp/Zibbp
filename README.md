@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Isaac and I'm a System Administrator. I have a passion for homelabbing, selfhosting, and coding. Check out what I'm working on below!
+
+### 🔧 Technologies and Tools
 
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - *[Low Latency Streaming](https://zibbp.net/posts/low-latency-streaming/)*: How I host movie nights with my friends. 
+
+- _[Low Latency Streaming](https://zibbp.net/posts/low-latency-streaming/)_: How I host movie nights with my friends.
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 Stats
