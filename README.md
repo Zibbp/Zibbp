@@ -4,14 +4,14 @@ My name is Isaac and I'm a System Administrator. I have a passion for homelabbin
 
 ### 🔧 Technologies and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,go,aws,linux,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,react,go,aws,linux,docker,kubernetes,postgres)](https://skillicons.dev)
 
 ### 📦 What I'm Working On
 
-* 🔥 **[Ceres](https://github.com/Zibbp/Ceres)**: Archive Twitch Streams and VODs with a rendered chat.
-* **[Eos](https://github.com/Zibbp/Ceres)**: View your archived YouTube collection.
+* 🔥 **[Ganymede](https://github.com/Zibbp/ganymede)**: Archive Twitch Streams and VODs with a rendered chat.
 * **[Radium](https://github.com/Zibbp/Radium/tree/next)**: Realtime streaming application with an integreated chat.
-* **[Tidal-Utils](https://github.com/Zibbp/tidal-utils)**: Convert Spotify playlists to Tidal playlists and more.
+* **[Eos](https://github.com/Zibbp/Ceres)**: View your archived YouTube collection.
+* **[Music-Utils](https://github.com/Zibbp/music-utils)**: Convert Spotify playlists to Tidal playlists, archive playlists in JSON, generate `m3u` playlists, and more.
 
 
 ### 📚 Latest Blog Posts
